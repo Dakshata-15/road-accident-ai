@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+
+# Secret Keys - NEVER upload this
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Saved ML model (too large)
+*.pkl
+
+# Raw data files (too large for GitHub)
+data/raw/
+
+# Mac system file
+.DS_Store
+
+# VS Code settings
+.vscode/
